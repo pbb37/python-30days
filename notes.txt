@@ -1,0 +1,2 @@
+solar:4.2kw
+wind:2.1kw
