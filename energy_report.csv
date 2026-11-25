@@ -1,0 +1,13 @@
+month,usage_kwh,price_eur,co2_kg,cost_eur,season
+Jan,320,0.3,121.6,96.0,winter
+Feb,290,0.3,110.2,87.0,winter
+Mar,260,0.31,98.8,80.6,spring
+Apr,210,0.31,79.8,65.1,spring
+May,180,0.32,68.4,57.6,spring
+Jun,150,0.32,57.0,48.0,summer
+Jul,140,0.33,53.2,46.2,summer
+Aug,145,0.33,55.1,47.85,summer
+Sep,190,0.32,72.2,60.800000000000004,Autumn
+Oct,240,0.31,91.2,74.4,Autumn
+Nov,290,0.3,110.2,87.0,Autumn
+Dec,340,0.3,129.2,102.0,winter
